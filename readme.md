@@ -4,6 +4,11 @@
 
 <br />
 
+![GitHub code size in bytes](https://img.shields.io/github/languages/code-size/flaviano-rodrigues/Desafio-T.EX?label=Size&style=flat-square)
+![GitHub repo file count](https://img.shields.io/github/directory-file-count/flaviano-rodrigues/Desafio-T.EX?label=Files&style=flat-square)
+
+<br />
+
 ## Requisitos:
 
 - [x] Aplicar Responsividade mínima para mobile retrato
